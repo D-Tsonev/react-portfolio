@@ -1,10 +1,10 @@
 import { useState } from 'react'
 import './App.css'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Header from './components/Header'
-import Home from './components/Home'
+import Header from './components/Header/Header'
+import Home from './components/Home/Home'
 // import Project from './components/Project'
-import Contact from './components/Contact'
+import Contact from './components/Contact/Contact'
 import ProjectGallery from './components/ProjectGallery';
 import Footer from './components/Footer';
 

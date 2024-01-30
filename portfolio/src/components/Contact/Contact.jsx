@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import './Contact.css'
-
-import './Home.css'
+// import './Home.css'
 
 const Contact = () => {
   const [formData, setFormData] = useState({
