@@ -1,0 +1,23 @@
+.project {
+  display: flex; 
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.project h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.project p {
+  margin: 10px 0;
+}
+
+.project img {
+  max-width: 40%; 
+  height: auto;
+  border-radius: 4px;
+  margin-right: 20px
+}

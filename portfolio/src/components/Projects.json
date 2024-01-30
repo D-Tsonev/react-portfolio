@@ -3,24 +3,24 @@
     "title": "Weather Dashboard",
     "deployedVersion": "https://d-tsonev.github.io/Weather-Dashboard/",
     "githubRepo": "https://github.com/D-Tsonev/weather-dashboard",
-    "screenshot": "https://github.com/D-Tsonev/Weather-Dashboard/blob/main/assets/page.png"
+    "screenshot": "https://raw.githubusercontent.com/D-Tsonev/Weather-Dashboard/main/assets/page.png"
   },
   {
     "title": "Work Day Scheduler",
     "deployedVersion": "https://d-tsonev.github.io/Work-Day-Scheduler/",
     "githubRepo": "https://github.com/D-Tsonev/Work-Day-Scheduler",
-    "screenshot": "https://github.com/D-Tsonev/Work-Day-Scheduler/blob/main/assets/page_colors.png"
+    "screenshot": "https://raw.githubusercontent.com/D-Tsonev/Work-Day-Scheduler/main/assets/page_colors.png"
   },
   {
     "title": "Password Generator",
     "deployedVersion": "https://d-tsonev.github.io/Password-Generator/",
     "githubRepo": "https://github.com/D-Tsonev/Password-Generator",
-    "screenshot": "https://github.com/D-Tsonev/Password-Generator/blob/main/assets/demo.png"
+    "screenshot": "https://raw.githubusercontent.com/D-Tsonev/Password-Generator/main/assets/demo.png"
   },
   {
-    "title": "Bootstrap-Portfolio",
+    "title": "Bootstrap Portfolio",
     "deployedVersion": "https://d-tsonev.github.io/Bootstrap-Portfolio/",
     "githubRepo": "https://github.com/D-Tsonev/Bootstrap-Portfolio",
-    "screenshot": "https://github.com/D-Tsonev/Bootstrap-Portfolio/blob/main/images/screencapture.png"
+    "screenshot": "https://raw.githubusercontent.com/D-Tsonev/Bootstrap-Portfolio/main/images/screencapture.png"
   }
 ]

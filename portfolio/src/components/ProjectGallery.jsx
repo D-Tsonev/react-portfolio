@@ -1,9 +1,15 @@
-import React from 'react'
+import React from 'react';
+import Project from './Project';
+import projectsData from './Projects.json'
 
 const ProjectGallery = () => {
   return (
-    <div>ProjectGallery</div>
-  )
-}
+    <div className="project-gallery">
+      {projectsData.map((project, index) => (
+        <Project key={index} project={project} />
+      ))}
+    </div>
+  );
+};
 
-export default ProjectGallery
+export default ProjectGallery;
