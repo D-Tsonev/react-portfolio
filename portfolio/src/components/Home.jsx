@@ -1,6 +1,4 @@
 import React from 'react';
-// Import all the required modules and files.
-
 import './Home.css'
 import mainImage from '../assets/main.jpg';
 
