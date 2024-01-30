@@ -1,0 +1,31 @@
+.contact-container {
+  margin: 30px;
+}
+
+.form-group {
+  margin-bottom: 30px;
+}
+
+.form-control {
+  width: 100%;
+  padding: 10px;
+  font-size: 22px;
+  border: 1px solid #dbcaca;
+  border-radius: 10px;
+  background-color: rgb(194, 205, 205);
+}
+
+.btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  background-color: rgb(194, 205, 205);
+  color: #080808;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #474b50;
+}
+

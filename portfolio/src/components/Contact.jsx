@@ -1,4 +1,7 @@
 import React, { useState } from 'react';
+import './Contact.css'
+
+import './Home.css'
 
 const Contact = () => {
   const [formData, setFormData] = useState({
@@ -26,11 +29,10 @@ const Contact = () => {
   };
 
   return (
-    <div className="container">
-      <h2>Contact Me</h2>
+    <div className="contact-container">
       <form onSubmit={handleSubmit}>
-        <div className="mb-3">
-          <label htmlFor="name" className="form-label">Name</label>
+        <div className="form-group">
+          <label htmlFor="name">Name</label>
           <input 
             type="text" 
             className="form-control" 
@@ -40,8 +42,8 @@ const Contact = () => {
             onChange={handleChange} 
           />
         </div>
-        <div className="mb-3">
-          <label htmlFor="email" className="form-label">Email</label>
+        <div className="form-group">
+          <label htmlFor="email">Email</label>
           <input 
             type="email" 
             className="form-control" 
@@ -51,8 +53,8 @@ const Contact = () => {
             onChange={handleChange} 
           />
         </div>
-        <div className="mb-3">
-          <label htmlFor="message" className="form-label">Message</label>
+        <div className="form-group">
+          <label htmlFor="message">Message</label>
           <textarea 
             className="form-control" 
             id="message" 
@@ -68,3 +70,4 @@ const Contact = () => {
 };
 
 export default Contact;
+
