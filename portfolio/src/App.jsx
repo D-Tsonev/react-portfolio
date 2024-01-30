@@ -6,6 +6,7 @@ import Home from './components/Home'
 // import Project from './components/Project'
 import Contact from './components/Contact'
 import ProjectGallery from './components/ProjectGallery';
+import Footer from './components/Footer';
 
 
 
@@ -18,6 +19,7 @@ function App() {
         <Route path="/projects" element={<ProjectGallery/>}/>
         <Route path="/contact" element={<Contact/>}/>
       </Routes>
+      <Footer/>
     </Router>
   );
 }
