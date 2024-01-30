@@ -1,0 +1,19 @@
+.image-container {
+  display: flex;
+  align-items: center;
+}
+
+.image {
+  flex: 1;
+  padding-right: 20px;
+
+}
+
+.main-image {
+  height: auto;
+  max-width: 60%;
+}
+
+.text {
+  flex: 1;
+}
