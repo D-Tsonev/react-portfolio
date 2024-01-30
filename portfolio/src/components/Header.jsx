@@ -17,6 +17,9 @@ const Header = () => {
             <li><Link to="/">Home</Link></li>
             <li><Link to="/projects">Projects</Link></li>
             <li><Link to="/contact">Contact</Link></li>
+            <li>
+              <a href="https://drive.google.com/file/d/1RONpa6M_DViixpKW68KPHM9bsRRoYKBj/view?usp=sharing" target="_blank" rel="noreferrer">CV</a>
+              </li>
           </ul>
         </div>
       </nav>
